@@ -1,1 +1,1 @@
-web: python Autoshopify.py
+web: python app.py
